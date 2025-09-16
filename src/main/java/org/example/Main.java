@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("This is master branch commit");
         System.out.println("change from testRebase1");
+        System.out.println("testRebase2");
     }
 }
