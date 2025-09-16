@@ -7,5 +7,6 @@ public class Main {
         System.out.println("change from testRebase1");
         System.out.println("testRebase2");
         System.out.println("testRebase3");
+        System.out.println("testRebase4");
     }
 }
